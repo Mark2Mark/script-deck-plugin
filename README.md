@@ -1,8 +1,9 @@
+# Script Deck
+
 <p align="center">
 <img width="200" height="200" src="https://markfromberg.com/user/images/glyphs/plugins/Script-Deck-Icon@0.5x.png">
 </p>
 
-# Script Deck
 
 [![made with heart by Mark Frömberg](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-mark%20frömberg-F9DE64.svg?style=flat)](https://github.com/Mark2Mark)
 
@@ -11,9 +12,9 @@
 <p align="center">caption</p>
 </p>
 
-## Script What?
+# Script What?
 
-### Are you tired of memorizing endless shortcuts and digging through menus to run your essential scripts in GlyphsApp?
+## Are you tired of memorizing endless shortcuts and digging through menus to run your essential scripts in GlyphsApp?  
 
 **Save time, clicks and mental energy. Discover a smarter way with ‘Script Deck’.**
 
@@ -37,11 +38,7 @@ With **Script Deck**, running your scripts in Glyphs becomes effortless and effi
 
 &nbsp;
 
-## Brief
-
-🤹‍♂️ Are you tired of memorizing endless shortcuts and digging through menus to run your essential scripts in GlyphsApp?
-
-**Save time, clicks and mental energy. Discover a smarter way with ‘Script Deck’.**  
+# How does it work?
 
 &nbsp;
 ## A Single shortcut
