@@ -9,14 +9,15 @@
 
 <p align="center">
 <img src="https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20PM%20Cover@1x.png">
-<p align="center">caption</p>
+<p align="center">Script Deck in Action</p>
 </p>
 
 # Script What?
 
-## Are you tired of memorizing endless shortcuts and digging through menus to run your essential scripts in GlyphsApp?  
-
-**Save time, clicks and mental energy. Discover a smarter way with ‘Script Deck’.**
+> [!TIP]
+> ### Are you tired of memorizing endless shortcuts and digging through menus to run your essential scripts in GlyphsApp?  
+>
+> #### Save time, clicks and mental energy. Discover a smarter way with ‘Script Deck’.
 
 With this Plugin for [GlyphsApp](https://glyphsapp.com/extend?target=_blank) you can become a very productive type designer!
 
@@ -26,15 +27,16 @@ One of the key features of **Script Deck** is its high level of customization. Y
 
 With **Script Deck**, running your scripts in Glyphs becomes effortless and efficient. No longer will you waste time searching for the right script or struggling to remember how to access it. With a user-friendly interface and intuitive controls, **Script Deck** streamlines your workflow and enhances your productivity.
 
+[🎁 Plugin Page](https://markfromberg.com/projects/script-deck-3)
 
-> 💡 This is a plugin for Glyphs 3. Minimum Glyphs version: build <code>3062</code>.
+[📖 Download PDF manual](https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20Manual.pdf)
+
+---
+
+> [!IMPORTANT]
+> This is a plugin for Glyphs 3. Minimum Glyphs version: build <code>3062</code>.
 > 
-> ⚠️ Do not download directly from here. Please install via GlyphsApp’s Plugin Manager ⚠️
-> 
-> [🎁 Plugin Page](https://markfromberg.com/projects/script-deck-3)
-> 
-> [📖 Download PDF manual](https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20Manual.pdf)
-> 
+> Do not download directly from here. Please install via GlyphsApp’s Plugin Manager
 
 &nbsp;
 
