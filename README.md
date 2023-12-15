@@ -132,20 +132,11 @@ Don’t download from here, it won’t work.
 
 &nbsp;
 ## Todo
-
-- See [issues](https://github.com/Mark2Mark/script-deck-plugin/issues)
-
+[Click here for the issues/todos](https://github.com/Mark2Mark/script-deck-plugin/issues)
 
 &nbsp;
 ## Changelog
-
-<details><summary>Expand if you’re curious.</summary>
-
-### v1.0.0
-
-- New in GlyphsApp's Plugin Manager
-
-</details>
+[Click here for the Changelog](https://github.com/Mark2Mark/script-deck-plugin/blob/main/CHANGELOG.md)
 
 &nbsp;
 ## FAQ
