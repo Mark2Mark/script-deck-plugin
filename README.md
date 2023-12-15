@@ -149,10 +149,8 @@ Don’t download from here, it won’t work.
 
 &nbsp;
 ## FAQ
-<details><summary>🙋 I can’t find it in the Plugin Manager.</summary>
-➡️ You need to check if your GlyphsApp build is higher than <code>3062</code>.  
-If Glyphs doesn’t offer you a high enough version, enable activate GlyphsApp <code>Preferences</code> > <code>"Updates"</code> > <code>“Show cutting edge versions”</code>. Note: you can have several GlyphsApp versions
-</details>
+[Click here for the FAQ](https://markfromberg.com/projects/script-deck-3#faq)
+
 
 &nbsp;
 ## How to activate your license<a id="how-to-activate-your-license"></a>  
