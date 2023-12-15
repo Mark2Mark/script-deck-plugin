@@ -144,27 +144,5 @@ Don’t download from here, it won’t work.
 
 
 &nbsp;
-## How to activate your license<a id="how-to-activate-your-license"></a>  
-After your purchase, the license key should be set automatically for you. If it isn’t:  
-<details><summary>Activating the plugin is easy, just follow the simple steps [click to open]</summary>
-<ol>
-<li>👉 Make sure you have GlyphsApp 3 build <code>3062</code> or higher.</li>
-<li>👉 If you haven't already, download the plugin directly in the GlyphsApp Plugin Manager and restart GlyphsApp once.</li>
-<li>👉 When you activate the plugin, you'll be prompted with a window*, click the <code>"Enter License"</code> button.</li>
-<li>👉 On the screen that opens enter your Email address, and the license code from your Email.</li>
-<li>👉 When you've completed the above, just click the <code>"Activate License"</code> button. Within a few seconds your product should be activated for full use!</li>
-</ol>
-
-*) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Mark Zones"</code>. Alternatively you can right click into the plugin’s Preview box and click <code>"Open Registration Window"</code>.
-</details>
-
-&nbsp;
 ## How to enter a coupon
-<details><summary>If you have a coupon, follow these steps to use it for a discount on your purchase [click to open]</summary>
-https://markfromberg.com/faq#apply_coupon
-
-⚠️ Note: The Coupon is **not** the License Code. Please don’t enter the Coupon Code into the field for your License Code!
-
-*) If the window doesn’t show, you can right-click into the Edit Tab (that’s the window where you do your drawings) and in the context menu click <code>"Purchase Mark Zones"</code>. Alternatively you can right click into the plugin’s Preview box and click <code>"Open Registration Window"</code>.
-
-</details>
+[Click here to see how to enter a coupon](https://markfromberg.com/faq#apply_coupon)
