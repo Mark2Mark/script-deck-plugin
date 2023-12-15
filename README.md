@@ -11,17 +11,32 @@
 <p align="center">caption</p>
 </p>
 
-This is a plugin for Glyphs 3.
+## Script What?
 
-💡 Minimum Glyphs version: build <code>3062</code>.
+### Are you tired of memorizing endless shortcuts and digging through menus to run your essential scripts in GlyphsApp?
 
-⚠️ Do not download directly from here. Please install via GlyphsApp’s Plugin Manager ⚠️
+**Save time, clicks and mental energy. Discover a smarter way with ‘Script Deck’.**
 
----
+With this Plugin for [GlyphsApp](https://glyphsapp.com/extend?target=_blank) you can become a very productive type designer!
 
-[➡️ Download PDF manual](https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20Manual.pdf)
+**Script Deck** is a <mark>convenient virtual pad controller</mark> designed to simplify the process of accessing and launching your favorite scripts. With just a few button clicks, you can say goodbye to the hassle of digging through script menus or trying to remember complicated shortcuts.  
+
+One of the key features of **Script Deck** is its high level of customization. You have the ability to personalize your experience by setting colors and icons for quick recognition. Additionally, you can name your decks, allowing for easy organization and quick identification of your scripts.  
+
+With **Script Deck**, running your scripts in Glyphs becomes effortless and efficient. No longer will you waste time searching for the right script or struggling to remember how to access it. With a user-friendly interface and intuitive controls, **Script Deck** streamlines your workflow and enhances your productivity.
+
+
+> 💡 This is a plugin for Glyphs 3. Minimum Glyphs version: build <code>3062</code>.
+> 
+> ⚠️ Do not download directly from here. Please install via GlyphsApp’s Plugin Manager ⚠️
+> 
+> [🎁 Plugin Page](https://markfromberg.com/projects/script-deck-3)
+> 
+> [📖 Download PDF manual](https://markfromberg.com/user/images/glyphs/plugins/Script%20Deck%20Manual.pdf)
+> 
 
 &nbsp;
+
 ## Brief
 
 🤹‍♂️ Are you tired of memorizing endless shortcuts and digging through menus to run your essential scripts in GlyphsApp?
@@ -98,10 +113,10 @@ This is handy for backup or you could switch between different script sets. (Tod
 
 _You need to do this only once in macOS:_
 
- > `System Preferences` > `Keyboard`
-Select `Shortcuts` > `App Shortcuts`
-Add `Glyphs 3`, set the Menu Title to `‘Script Deck’`
-and choose your desired shortcut.
+1.  > `System Preferences` > `Keyboard`
+1. Select `Shortcuts` > `App Shortcuts`
+1. Add `Glyphs 3`, set the Menu Title to `‘Script Deck’`
+1. Choose your desired shortcut.
 
 &nbsp;
 ## Download
@@ -118,7 +133,7 @@ Don’t download from here, it won’t work.
 &nbsp;
 ## Todo
 
-- See [issues](https://github.com/Mark2Mark/mark-zones-plugin/issues)
+- See [issues](https://github.com/Mark2Mark/script-deck-plugin/issues)
 
 
 &nbsp;
