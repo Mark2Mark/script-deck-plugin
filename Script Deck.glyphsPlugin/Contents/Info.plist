@@ -17,13 +17,13 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2.1</string>
+	<string>1.2.2</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4</string>
+	<string>5</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -41,7 +41,7 @@
 	<key>DTXcodeBuild</key>
 	<string>14A400</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.14</string>
+	<string>10.13</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>© 2023 markfromberg.com | All rights reserved.</string>
 	<key>NSPrincipalClass</key>
