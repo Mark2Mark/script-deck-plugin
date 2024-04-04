@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.2.3
+
+2024-04-04
+
+### Fix
+
+* Prevent some crashes on mac OS 10.13
+
+    Bypassing some features that are not so important for users of such an old mac OS
+
 ## 1.2.2
 
 2024-04-03
