@@ -1,6 +1,72 @@
 # Changelog
 
-## 1.2.3
+## v1.4.1
+
+2026-11-18
+
+### New
+
+* Knob/keyboard pick shows a ring and outranks hover
+
+* Option-arrows move a keyboard highlight, Return runs it
+
+## v1.4.0
+
+2026-11-18
+
+### New
+
+* Blue outline on the button a drag would drop on
+
+* Show the deck around the cursor by default
+
+* 170 icons in 11 categories, unavailable ones hidden
+
+* Icon picker as a grid per category
+
+* Visible hover and drag states
+
+* Settings window for display mode, deck count, export and import
+
+* Configurable number of decks (1–9)
+
+* Tooltips with the script’s full name, description and path
+
+* Drop .py files onto buttons, drag buttons to swap them
+
+* Store scripts relative to Glyphs’ Scripts folder
+
+* Show missing scripts and offer Locate Script
+
+### Changes
+
+* Read script menu titles once instead of on every redraw
+
+### Fix
+
+* Page dots no longer spread across the window
+
+* Export decks through a save panel
+
+* Validate deck files before importing
+
+* Keep deck open until the import panel is done
+
+## v1.3.0
+
+2026-11-18
+
+### New
+
+* Around cursor mode and opens at cursor also in window mode
+
+## v1.2.4
+
+2026-07-02
+
+* Small changes under the hood
+
+## v1.2.3
 
 2024-04-04
 
@@ -8,9 +74,7 @@
 
 * Prevent some crashes on mac OS 10.13
 
-    Bypassing some features that are not so important for users of such an old mac OS
-
-## 1.2.2
+## v1.2.2
 
 2024-04-03
 
@@ -18,13 +82,13 @@
 
 * Downwards compatible with macOS 10.13
 
-## 1.2.1
+## v1.2.1
 
 2023-12-18
 
 * Small changes under the hood
 
-## 1.2
+## v1.2
 
 2023-12-18
 
@@ -32,7 +96,7 @@
 
 * Compatible down to 10.14
 
-## 1.1
+## v1.1
 
 2023-12-18
 
@@ -40,7 +104,7 @@
 
 * Downwards compatibility & fix missing menu entry
 
-## 1.0
+## v1.0
 
 2023-11-17
 
