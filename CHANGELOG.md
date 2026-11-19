@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.4.2
+
+2026-11-19
+
+### Fix
+
+* Allow drops from Finder and cell drags across decks
+
 ## v1.4.1
 
 2026-11-18
