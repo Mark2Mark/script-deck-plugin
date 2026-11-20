@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.4.3
+
+2026-11-20
+
+### Fix
+
+* Deck stuck open after reopening it during Set Script
+
 ## v1.4.2
 
 2026-11-19
